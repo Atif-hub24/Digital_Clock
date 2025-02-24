@@ -1,5 +1,3 @@
-README file for your Digital Clock project implemented in Python:
-
 # Digital Clock
 
 ## Overview
@@ -60,5 +58,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For any questions or feedback, please contact [Atif-hub24](https://github.com/Atif-hub24).
-
-You can update the README file directly in the repository or use your preferred method to update it.
